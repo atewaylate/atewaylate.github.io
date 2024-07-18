@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atewaylate.github.io/sitemap
+Sitemap: https://atewaylate.github.io/app/sitemap
+Sitemap: https://atewaylate.github.io/assets/sitemap
+Sitemap: https://atewaylate.github.io/css/sitemap
+Sitemap: https://atewaylate.github.io/includes/sitemap
+Sitemap: https://atewaylate.github.io/item/sitemap
+Sitemap: https://atewaylate.github.io/src/sitemap
